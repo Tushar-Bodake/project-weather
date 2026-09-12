@@ -67,12 +67,8 @@ Example:
 ```js
 const API_KEY = "YOUR_API_KEY_HERE";
 ```
-
 ## Notes
 
 - The app is designed to work as a front-end project and fetches weather data from OpenWeatherMap.
 - The API key should be kept private and not shared publicly.
 
-## License
-
-This project is open-source and available under the MIT License.
